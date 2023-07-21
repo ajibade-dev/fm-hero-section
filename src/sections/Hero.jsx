@@ -43,7 +43,7 @@ const Hero = () => {
       {/* for the image */}
       <div className='lg:w-1/2 w-full flex items-center justify-center'>
 
-      <img src={desktop} alt="image on the side" className='w-[70%] h-[100%]'/>
+      <img src={desktop} alt="image on the side" className='w-[70%] h-[80%]'/>
       </div>
         
     </div>
