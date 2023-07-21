@@ -13,7 +13,7 @@ const Hero = () => {
 
         {/* the large heading */}
         <div className='flex justify-center'>
-          <h1 className='md:text-8xl text-3xl font-extrabold text-almost-black font-epilogue'>Make remote work</h1>
+          <h1 className='md:text-7xl text-3xl font-extrabold text-almost-black font-epilogue'>Make remote work</h1>
         </div>
         {/* the write up below */}
         <div className='flex items-center text-center md:text-start md:w-3/4 w-full'>
